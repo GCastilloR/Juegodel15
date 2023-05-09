@@ -1,0 +1,16 @@
+section{
+    text-align: center;
+    margin-top: 30px;
+}
+.fila{
+    margin-top: 5px;
+}
+.cuadro{
+    border: 1px solid black;
+    width: 70px;
+    height: 70px;
+    font-size: 1.5rem;
+}
+.start{
+    margin: 20px;
+}
